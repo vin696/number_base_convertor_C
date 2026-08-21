@@ -8,7 +8,7 @@ this program currently supports:
 2.binary to decimal
 3.decimal to octal
 4.octal to decimal
-5.decimal to hex
+5.decimal to hexadecimal
 6.hexadecimal to decimal
 7.binary to hexadecimal
 8.hexadecimal to binary
